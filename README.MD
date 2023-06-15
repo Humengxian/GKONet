@@ -67,7 +67,7 @@ ${YOUR_ROOT}/
 ```
 
 ## Pretrained model & Test
-The pretrained model can be found in [here](https://drive.google.com/drive/folders/1UWuaJ_nE19x2aM-Th221UpdhRPSCFwZa?usp=sharing), please download it and put it in the `'./pretrained'` directory. 
+The pretrained model can be found in [here](https://www.aliyundrive.com/s/b1SqfDxXRjQ)[aq76], please download it and put it in the `'./pretrained'` directory. 
 
 To test pretrained model with detected 2D poses (CPN) on Human3.6M:
 
